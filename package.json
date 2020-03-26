@@ -1,0 +1,10 @@
+{
+  "name": "hubot-opsgenie",
+  "version": "1.0.0",
+  "description": "opsgenie to mattermost integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Sizov (kcepaxe@gmail.com)",
+  "license": "ISC"
